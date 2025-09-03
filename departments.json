@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Emergency",
+        "phone": "+1-800-555-1000",
+        "description": "Handles urgent and life-threatening conditions.",
+        "hospital_id": 1,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "phone": "+1-800-555-1001",
+        "description": "Specializes in heart-related conditions.",
+        "hospital_id": 2,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 3,
+        "name": "Neurology",
+        "phone": "+1-800-555-1002",
+        "description": "Focuses on disorders of the nervous system.",
+        "hospital_id": 3,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 4,
+        "name": "Pediatrics",
+        "phone": "+1-800-555-1003",
+        "description": "Provides medical care for infants and children.",
+        "hospital_id": 4,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 5,
+        "name": "Oncology",
+        "phone": "+1-800-555-1004",
+        "description": "Treats cancer and related diseases.",
+        "hospital_id": 5,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 6,
+        "name": "Radiology",
+        "phone": "+1-800-555-1005",
+        "description": "Performs imaging to diagnose conditions.",
+        "hospital_id": 6,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 7,
+        "name": "Orthopedics",
+        "phone": "+1-800-555-1006",
+        "description": "Deals with bones and musculoskeletal issues.",
+        "hospital_id": 7,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 8,
+        "name": "Dermatology",
+        "phone": "+1-800-555-1007",
+        "description": "Treats skin-related conditions.",
+        "hospital_id": 8,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 9,
+        "name": "Gynecology",
+        "phone": "+1-800-555-1008",
+        "description": "Focuses on women's reproductive health.",
+        "hospital_id": 9,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    },
+    {
+        "id": 10,
+        "name": "Psychiatry",
+        "phone": "+1-800-555-1009",
+        "description": "Provides mental health services.",
+        "hospital_id": 10,
+        "created_at": "2025-09-02T14:17:05.781455",
+        "updated_at": "2025-09-02T14:17:05.781455"
+    }
+]

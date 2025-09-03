@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Mercy General Hospital",
+        "city": "New York",
+        "state": "NY",
+        "phone": "212-555-0101",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 2,
+        "name": "St. Luke's Medical Center",
+        "city": "Los Angeles",
+        "state": "CA",
+        "phone": "310-555-0102",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 3,
+        "name": "Cityview Hospital",
+        "city": "Chicago",
+        "state": "IL",
+        "phone": "312-555-0103",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 4,
+        "name": "Green Valley Medical",
+        "city": "Houston",
+        "state": "TX",
+        "phone": "713-555-0104",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 5,
+        "name": "Lakeside Health Center",
+        "city": "Phoenix",
+        "state": "AZ",
+        "phone": "602-555-0105",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 6,
+        "name": "Riverbend Hospital",
+        "city": "Philadelphia",
+        "state": "PA",
+        "phone": "215-555-0106",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 7,
+        "name": "Mountainview Medical",
+        "city": "San Antonio",
+        "state": "TX",
+        "phone": "210-555-0107",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 8,
+        "name": "Sunrise Hospital",
+        "city": "San Diego",
+        "state": "CA",
+        "phone": "619-555-0108",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 9,
+        "name": "Bayview Medical Center",
+        "city": "Dallas",
+        "state": "TX",
+        "phone": "214-555-0109",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    },
+    {
+        "id": 10,
+        "name": "Pinecrest Hospital",
+        "city": "San Jose",
+        "state": "CA",
+        "phone": "408-555-0110",
+        "created_at": "2025-09-02T14:16:05.996050",
+        "updated_at": "2025-09-02T14:16:05.996050"
+    }
+]
