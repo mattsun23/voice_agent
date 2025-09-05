@@ -121,7 +121,7 @@ def call_watsonx(request: WatsonxRequest) -> JSONResponse:
         f"Get me the phone number of the doctor that the user is requesting. Here is the user's request: {request.string_input}. "
         f"""Return ONLY the phone number. NO EXPLANATION. 
 
-        Here is an example of a correct response: (123) 456-7890.
+        Here is an example of a correct response: 123-456-7890.
         
         Here is the data: {input_of_hospitals}."""
     )
@@ -168,9 +168,3 @@ def test_watsonx_functionality():
         print(response.json())
     except Exception as e:
         print(f"Error testing endpoint: {e}")
-"""
-if __name__ == "__main__":
-    # Uncomment the line below to test the endpoint locally
-    # test_get_hospital_details(1)
-    test_get_hospital_details(1); 
-"""
