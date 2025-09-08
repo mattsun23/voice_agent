@@ -119,7 +119,7 @@ import os
 
 
 class WatsonxRequest(BaseModel):
-    string_input: str = "I would like to get in touch with Dr. Smith from Emergency"
+    string_input: str = "I would like to get in touch with Dr. Smith from Emergency" 
     hospital_id: int
     
     class Config:
