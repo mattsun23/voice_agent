@@ -123,7 +123,7 @@ class WatsonxRequest(BaseModel):
     hospital_id: int
     
     class Config:
-        schema_extra = {
+        json_schema_extra = {
             "example": {
                 "string_input": "I need to contact Dr. Smith from the Emergency department",
                 "hospital_id": 1
@@ -134,7 +134,7 @@ class DoctorPhoneResponse(BaseModel):
     response: str
     
     class Config:
-        schema_extra = {
+        json_schema_extra = {
             "example": {
                 "response": "+1-888-555-2000"
             }
